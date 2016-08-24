@@ -1,2 +1,7 @@
 # Aloha
-Aloha 'How To' tutorial
+Aloha 'How To' Mapping Guide link
+
+https://sharepoint.ncr.com/sites/hospitalitydoc/SitePages/POS.aspx
+
+
+
